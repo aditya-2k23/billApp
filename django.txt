@@ -1,0 +1,11 @@
+manage.py = {File_Name.extension}
+
+- To run the server
+$ python manage.py runserver
+
+- To Create Database tables automatically
+$ python manage.py makemigrations
+$ python manage.py migrate
+
+- To create sections in the APP
+$ python manage.py
